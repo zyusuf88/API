@@ -1,4 +1,8 @@
 # APIS
+- [APIS](#apis)
+  - [What are APIs? How are they used and why are they so popular?](#what-are-apis-how-are-they-used-and-why-are-they-so-popular)
+  - [What is a REST API? what makes an API RESTful? What are the REST API guidelines?](#what-is-a-rest-api-what-makes-an-api-restful-what-are-the-rest-api-guidelines)
+- [Pokeman Game](#pokeman-game)
 
 **API stands for Application Programming Interface**
 
@@ -13,9 +17,7 @@
 
 **API works as a middle layer between the client and the server, making it possible to send data requests and responses.**
 
-![data transfer](images/howapiworks.webp)
-
-
+![How does apis work](images/howapiworks.webp)
 
 ## What is a REST API? what makes an API RESTful? What are the REST API guidelines?
 
@@ -55,5 +57,15 @@ For example, ```example.com/surveys```
 
 
 ***Body message:*** Is an optional custom payload which contains a message with the properties and values we want to use to create or update a given resource.
+
+# Pokeman Game
+
+Welcome to the [Pokémon Game](https://github.com/zyusuf88/API/blob/main/Pok%C3%A9mon_game.py) <br>
+
+ 
+Welcome to the Pokémon game! Choose your Pokémon from a selection of 100 creatures. Beware! Your opponent's taller Pokémon could tip the battle! <br>
+
+To get started, make sure you have the requests library installed. If not, you can install it by running: `pip install requests`
+
 
 

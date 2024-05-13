@@ -1,5 +1,5 @@
-# APIS
-- [APIS](#apis)
+# API
+- [API](#api)
   - [What are APIs? How are they used and why are they so popular?](#what-are-apis-how-are-they-used-and-why-are-they-so-popular)
   - [What is a REST API? what makes an API RESTful? What are the REST API guidelines?](#what-is-a-rest-api-what-makes-an-api-restful-what-are-the-rest-api-guidelines)
 - [Pokeman Game](#pokeman-game)
